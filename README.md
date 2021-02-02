@@ -4,7 +4,8 @@
 The point of this Android application is to showcase my teams ability to create a fully functioning application of the Fantasy Sports genre. This application will allow the user to create or join a public or private fantasy league, with or without money, that will in turn allow other users to cooperatively play a sixteen week season. The game will include customizable parameters for each league, a draft system, trading system, points system with real-time updates, competitive play, and a championship round on the sixteenth week.
 
     ** Originally built to only allow Fantasy Football with no money and a simulated season off of .txt files due to being built off season.
-    ** Plans to incorporate a real money system, Fantasy Soccer/Baseball/Basketball League options, college or professional teir, and real time updates off of player scores in            real time games
+    ** Plans to incorporate a real money system, Fantasy Soccer/Baseball/Basketball League options, college or professional teir, and real time updates off of player scores in
+    real time games
 
 The skills showcased here are:
 -
