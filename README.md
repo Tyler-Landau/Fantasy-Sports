@@ -9,11 +9,14 @@ The point of this Android application is to showcase my teams ability to create 
 
 The skills showcased here are:
 -
-  * The ability to use object-oriented programming.
-  * Proficiency in Java.
-  * Creation of a multiplayer network that updates in real time.
-  * The ability to scrub a website for data.
-  * The ability to work as a team under strict time constraints and little resource to complete a project to the clients satisfaction.
+  * The ability to use object-oriented programming
+  * Proficiency in Java
+  * Creation of a multiplayer network that updates in real time
+  * The ability to scrub a website for data
+  * The ability to work as a team under strict time constraints and little resource to complete a project to the clients satisfaction
+  * The ability to develop an app using Android Studio
+  * The ability to use GitHub to coordinate team efforts
+  * The ability to properly document and create UML diagrams of the software building process
 
 Built With
 -
@@ -21,6 +24,7 @@ Built With
   * GitHub - (What is GitHub)
   * Git - (What is Git)
   * Eclipse - (What is Eclipse?)
+  * Lucidchart - (What is Lucidchart)
 
 Pseudocode
 -
